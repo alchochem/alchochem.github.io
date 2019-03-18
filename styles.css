@@ -7,8 +7,4 @@ body {
 h1 {
   color: white;
   text-align: center;
-  box-sizing: content-box;
-    width: 95%;
-    border: solid #black 2px;
-    padding: 5px;
 }
