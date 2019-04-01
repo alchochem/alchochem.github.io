@@ -26,3 +26,9 @@ h1 {
   color: rgba(29, 32, 38, 1);
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
