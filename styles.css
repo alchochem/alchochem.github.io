@@ -1,4 +1,8 @@
-
+@media (min-width: 1500px) {
+    .container{
+        max-width: 970px;
+    }
+}
 body {
   background-image: url(cocktailbackground0.5.jpg);
   background-repeat: no-repeat;
