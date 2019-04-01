@@ -35,12 +35,16 @@ ul {
   background-size: 100%;
 }
 
+p.standardpadding {
+  padding: 100px 50px 100px 50px;
+}
+
 #cocktail-links .cocktail:hover {
   background: green;
 }
 #cocktail-links {
   background-image: url(images/barscene.jpg);
-  background-size: 50%;
+  background-size: 75%;
 }
 
 #cocktail-links .cocktail a {
