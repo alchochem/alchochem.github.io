@@ -29,6 +29,11 @@ ul {
   padding: 0;
 }
 
+.title {
+  background-image: url(images/chemistrypink/jpg);
+  image-size: 100%;
+}
+
 #cocktail-links .cocktail:hover {
   background: green
 }
