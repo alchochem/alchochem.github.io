@@ -1,8 +1,4 @@
-@media (min-width: 1500px) {
-    .container{
-        max-width: 970px;
-    }
-}
+
 body {
   background-image: url(cocktailbackground0.5.jpg);
   background-repeat: no-repeat;
@@ -11,11 +7,11 @@ body {
   color: rgba(29, 32, 38, 1);
   text-align:center;
 }
-
+/* 
 div {
   margin: 40px 100px 40px 100px;
   height: 200px;
-  }
+  } */
 
 .handwriting{
   width: 100%;
