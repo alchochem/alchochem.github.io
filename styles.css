@@ -42,6 +42,7 @@ ul {
   color: red
 }
 
-#coctail-links .cocktail a:hover {
-  colour: orange
+#cocktail-links .cocktail a:hover {
+  color: orange;
+  text-decoration: none;
 }
