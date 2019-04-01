@@ -36,7 +36,11 @@ ul {
 }
 
 #cocktail-links .cocktail:hover {
-  background: green
+  background: green;
+}
+#cocktail-links {
+  background-image: url(images/barscene.jpg);
+  background-size: 50%;
 }
 
 #cocktail-links .cocktail a {
