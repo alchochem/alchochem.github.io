@@ -28,7 +28,15 @@ ul {
   margin: 0;
   padding: 0;
 }
-#cocktaillinks {
-  background: red
 
+#cocktail-links .cocktail:hover {
+  background: green
+}
+
+#cocktail-links .cocktail a {
+  color: red
+}
+
+#coctail-links .cocktail a:hover {
+  colour: orange
 }
