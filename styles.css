@@ -30,8 +30,9 @@ ul {
 }
 
 .title {
-  background-image: url(images/chemistrypink/jpg);
-  image-size: 100%;
+  background-image: url(images/chemistrypink.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 #cocktail-links .cocktail:hover {
