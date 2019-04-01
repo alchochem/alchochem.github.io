@@ -1,3 +1,4 @@
+
 body {
   background-image: url(cocktailbackground0.5.jpg);
   background-repeat: no-repeat;
@@ -12,13 +13,7 @@ div {
   height: 200px;
   } */
 
-.title {
-  background-image: url("images/chemistrypink.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-
-.handwriting {
+.handwriting{
   width: 100%;
   height: auto;
 }
@@ -32,4 +27,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+#cocktaillinks {
+  background: red
+
 }
