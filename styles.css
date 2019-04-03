@@ -13,6 +13,11 @@ div {
   height: 200px;
   } */
 
+.content-box {
+  padding: 5%;
+
+}
+
 .handwriting{
   width: 100%;
   height: auto;
@@ -48,7 +53,7 @@ p.standardpadding {
 }
 
 #cocktail-links .cocktail a {
-  color: plum 
+  color: plum
 }
 
 #cocktail-links .cocktail a:hover {
