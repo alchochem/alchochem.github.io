@@ -60,3 +60,10 @@ p.standardpadding {
   color: orange;
   text-decoration: none;
 }
+
+/* Cocktail pages */
+
+.content-box {
+  padding: 15%;
+  background-color: plum;
+}
