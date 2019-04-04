@@ -45,7 +45,7 @@ p.standardpadding {
 }
 
 #cocktail-links .cocktail:hover {
-  background: gray;
+  background: purple;
 }
 #cocktail-links {
   background-image: url(images/new_barscene.png);
@@ -69,5 +69,5 @@ p.standardpadding {
   background-color: plum;
 }
 p.cocktailpadding {
-  padding: 25 200 200 200;
+  padding: 25px 5px 5px 5px;
 }
