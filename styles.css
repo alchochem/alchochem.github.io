@@ -44,6 +44,10 @@ p.standardpadding {
   padding: 100px 50px 100px 50px;
 }
 
+#nav-link a {
+    color: grey;
+}
+
 #cocktail-links .cocktail:hover {
   background: green;
 }
