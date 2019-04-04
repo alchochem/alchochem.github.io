@@ -35,7 +35,7 @@ ul {
 }
 
 .title {
-  background-image: url(images/chemistrypink.jpg);
+  background-image: url(images/chemie-png-7.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -45,7 +45,7 @@ p.standardpadding {
 }
 
 .navbar a:hover{
-  color: pink
+  color:rgb(219, 67, 209)
 }
 
 #cocktail-links .cocktail:hover {
