@@ -44,17 +44,12 @@ p.standardpadding {
   padding: 100px 50px 100px 50px;
 }
 
-#nav-link a {
-    color: grey;
-}
-
 #cocktail-links .cocktail:hover {
-  background: green;
+  background: grey;
 }
 #cocktail-links {
-  background-image: url(images/new_barscene2.png);
-  ackground-repeat: no-repeat;
-  background-size: 100%;
+  background-image: url(images/new_barscene.png);
+  background-size: 75%;
 }
 
 #cocktail-links .cocktail a {
@@ -67,6 +62,7 @@ p.standardpadding {
 }
 
 /* Cocktail pages */
+
 
 .content-box {
   padding: 15%;
