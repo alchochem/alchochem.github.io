@@ -53,7 +53,7 @@ p.standardpadding {
 }
 #cocktail-links {
   background-image: url(images/new_barscene.png);
-  background-size: 75%;
+  background-size: 100%;
 }
 
 #cocktail-links .cocktail a {
@@ -73,5 +73,5 @@ p.standardpadding {
   background-color: plum;
 }
 p.cocktailpadding {
-  padding: 25px 5px 5px 5px;
+  padding-bottom: 25px;
 }
