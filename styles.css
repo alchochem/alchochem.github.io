@@ -44,6 +44,10 @@ p.standardpadding {
   padding: 100px 50px 100px 50px;
 }
 
+.navbar a:hover{
+  color: pink
+}
+
 #cocktail-links .cocktail:hover {
   background: purple;
 }
