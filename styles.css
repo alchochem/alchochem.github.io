@@ -67,6 +67,6 @@ p.standardpadding {
   padding: 15%;
   background-color: plum;
 }
-.cocktailpadding {
-  padding: 25% 100% 25% 100%
+p.cocktailpadding {
+  padding: 25 200 200 200;
 }
