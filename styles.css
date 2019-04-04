@@ -48,8 +48,9 @@ p.standardpadding {
   background: green;
 }
 #cocktail-links {
-  background-image: url(images/new_barscene.png);
-  background-size: 75%;
+  background-image: url(images/new_barscene2.png);
+  ackground-repeat: no-repeat;
+  background-size: 100%;
 }
 
 #cocktail-links .cocktail a {
