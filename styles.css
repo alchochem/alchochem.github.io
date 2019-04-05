@@ -35,7 +35,7 @@ ul {
 }
 
 .title {
-  background-image: url(images/chemie-png-7.png);
+  background-image: url(images/chemistrypink.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -44,16 +44,22 @@ p.standardpadding {
   padding: 100px 50px 100px 50px;
 }
 
-.navbar a:hover{
-  color:rgb(219, 67, 209)
+.nav_bar {
+  color: purple;
 }
+
+.navbar a:hover{
+  color: pink;
+  text-decoration: none;
+}
+
 
 #cocktail-links .cocktail:hover {
   background: purple;
 }
 #cocktail-links {
   background-image: url(images/new_barscene.png);
-  background-size: 100%;
+  background-size: 75%;
 }
 
 #cocktail-links .cocktail a {
