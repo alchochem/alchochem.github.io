@@ -96,6 +96,9 @@ p.cocktailpadding {
   padding-top: 1px;
 }
 
+.oldfashioned{
+padding-bottom: 50px;
+}
 .button {
   background-color: pink;
   float: centre;
