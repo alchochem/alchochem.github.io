@@ -1,6 +1,6 @@
 body {
-  background-image: url(cocktailbackground0.5.jpg);
-  background-repeat: no-repeat;
+  background-image: url(images/new_barscene2.png);
+  background-repeat: cover;
   background-size: 100%;
   font-family: helvetica;
   color: rgba(29, 32, 38, 1);
@@ -96,7 +96,6 @@ p.cocktailpadding {
   padding-top: 1px;
 }
 
-
 .button {
   background-color: pink;
   float: centre;
@@ -105,12 +104,3 @@ p.cocktailpadding {
 #cocktail-text {
   padding-top: 60px;
 }
-.zoom {
-
-  align-items: left;
-  transition: transform .2s;
-  margin: 0 auto;
-}
-
-.zoom:hover {
-  transform: scale(1.5);
