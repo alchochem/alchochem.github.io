@@ -47,9 +47,14 @@ p.standardpadding {
 
 .navbar {
   background-color: plum;
+  padding-top: 0px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 0px;
 }
-  a {
-      color:black;
+
+  a{
+    color:black;
 }
 
   a:hover{
