@@ -1,4 +1,3 @@
-
 body {
   background-image: url(cocktailbackground0.5.jpg);
   background-repeat: no-repeat;
@@ -44,8 +43,16 @@ p.standardpadding {
   padding: 100px 50px 100px 50px;
 }
 
-.navbar a:hover{
-  color:rgb(219, 67, 209)
+.navbar {
+  background-color: plum;
+}
+  a {
+      color:black;
+}
+
+  a:hover{
+  color: white;
+  font-weight: bold;
 }
 
 #cocktail-links .cocktail:hover {
