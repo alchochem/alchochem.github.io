@@ -39,6 +39,7 @@ ul {
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: 100%;
+
 }
 
 p.standardpadding {
@@ -81,4 +82,10 @@ p.standardpadding {
 }
 p.cocktailpadding {
   padding-bottom: 25px;
+}
+
+.button {
+  background-color: pink;
+  float: left;
+  font-size: 30px;
 }
