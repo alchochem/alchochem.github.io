@@ -84,7 +84,7 @@ p.standardpadding {
   background-color: plum;
   font-size: 25px;
   font-family: verdana;
-  
+  color: #474AB5;
 }
 p.cocktailpadding {
   padding-bottom: 10px;
@@ -95,4 +95,7 @@ p.cocktailpadding {
   background-color: pink;
   float: centre;
   font-size: 30px;
+}
+#cocktail-text {
+  padding-top: 60px;
 }
