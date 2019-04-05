@@ -104,3 +104,12 @@ p.cocktailpadding {
 #cocktail-text {
   padding-top: 60px;
 }
+.zoom {
+
+  align-items: left;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
