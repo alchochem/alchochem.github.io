@@ -37,6 +37,7 @@ ul {
 .title {
   background-image: url(images/chemistrypink.jpg);
   background-repeat: no-repeat;
+  background-position: bottom;
   background-size: 100%;
 }
 
