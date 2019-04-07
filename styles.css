@@ -2,7 +2,7 @@ body {
   background-image: url(images/new_barscene2.png);
   background-repeat: cover;
   background-size: 100%;
-  font-family: helvetica;
+  font-family: 'Josefin Sans', sans-serif;
   color: rgba(29, 32, 38, 1);
   text-align:center;
 }
