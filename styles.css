@@ -120,9 +120,6 @@ padding-bottom: 50px;
 
 /* quiz page */
 
-#clicked_correct {
-  visibility: hidden;
-}
-#clicked_wrong1 {
+#after_submit {
   visibility: hidden;
 }
