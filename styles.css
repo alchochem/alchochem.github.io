@@ -116,3 +116,13 @@ padding-bottom: 50px;
 
 .zoom:hover {
   transform: scale(1.5);
+}
+
+/* quiz page */
+
+#clicked_correct {
+  visibility: hidden;
+}
+#clicked_wrong1 {
+  visibility: hidden;
+}
