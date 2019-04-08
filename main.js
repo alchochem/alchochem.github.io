@@ -19,7 +19,8 @@ var correct = 0;
       correct++;
     }
 
-var messages = ["You're a quiz-o-holic!", "Just one more!","You like your marks how you like your drinks...half full!", "One is truly the lonliest number", "Paying more attention to your drink and not this quiz!"]
+var messages = ["You're a quiz-o-holic!", "Just one more!","You like your marks how you like your drinks...half full!", "One is truly the lonliest number", "Paying more attention to your drink and not this quiz?"];
+var pictures = ["images/party.gif", "images/justdoit.gif", "images/glasshalffull.gif", "images/lonely.gif","images/drinkfail.gif"];
 
 var range;
 
@@ -47,4 +48,5 @@ var range;
 
   document.getElementById("message").innerHTML= messages[range];
   document.getElementById("clicked_correct").innerHTML="You got " + correct + " correct!";
+  document.getElementById("picture").src=pictures[range];
   }
