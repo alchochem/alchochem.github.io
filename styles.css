@@ -125,8 +125,19 @@ padding-bottom: 50px;
 }
 
 #quizz {
+  text-align: center;
+  background-color: #EEE7E4;
   padding 100px 20px 10px 20px;
   width:400px;
   border-radius" 200px;
   float: left;
+}
+
+.quiz {
+  align-content: left;
+  background-image: url(images/chemie-png-7.png);
+  background-position:bottom;
+}
+.quiz body {
+  background-color: white;
 }
