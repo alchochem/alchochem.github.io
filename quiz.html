@@ -22,42 +22,50 @@
       <h1> Quiz! </h1><br>
       <h4> Test your knowledge... </h4><br><br>
       </div>
+
     <div = "container-fluid" class="row">
+      <div class= "col-12 col-md-6">
+        <form id ="quizz" name= "quizz">
+          <p><b> Which cocktail contains ethyl isobutyrate? </b></p>
+          <input type = "radio" name = "question1" value = "Mojito">Mojito<br>
+          <input type = "radio"  name = "question1" value = "Gin and Tonic">Gin and Tonic<br>
+          <input type = "radio"  name = "question1" value = "Old Fashioned">Old Fashioned<br>
+          <input type = "radio"  name = "question1" value = "Pornstar Martini">Pornstar Martini<br>
 
-    <form id ="quizz" name= "quizz">
-      <p><b> Which cocktail contains ethyl isobutyrate? </b></p>
-      <input type = "radio" name = "question1" value = "Mojito">Mojito<br>
-      <input type = "radio"  name = "question1" value = "Gin and Tonic">Gin and Tonic<br>
-      <input type = "radio"  name = "question1" value = "Old Fashioned">Old Fashioned<br>
-      <input type = "radio"  name = "question1" value = "Pornstar Martini">Pornstar Martini<br>
+          <p><b> Which cocktail contains limonene? </b></p>
+          <input type = "radio" name = "question2" value = "Mojito"> Mojito<br>
+          <input type = "radio" name = "question2" value = "Gin and Tonic"> Gin and Tonic<br>
+          <input type = "radio" name = "question2" value = "Old Fashioned"> Old Fashioned<br>
+          <input type = "radio" nasme = "question2" value = "Pornstar Martini"> Pornstar Martini<br>
+            <br>
 
-      <p><b> Which cocktail contains limonene? </b></p>
-      <input type = "radio" name = "question2" value = "Mojito"> Mojito<br>
-      <input type = "radio" name = "question2" value = "Gin and Tonic"> Gin and Tonic<br>
-      <input type = "radio" name = "question2" value = "Old Fashioned"> Old Fashioned<br>
-      <input type = "radio" nasme = "question2" value = "Pornstar Martini"> Pornstar Martini<br>
-        <br>
+          <p><b> Which cocktail's main component is ethanol? </b></p>
+          <input type = "radio" name = "question3" value = "Mojito"> Mojito<br>
+          <input type = "radio" name = "question3" value = "Gin and Tonic"> Gin and Tonic<br>
+          <input type = "radio" name = "question3" value = "Old Fashioned"> Old Fashioned<br>
+          <input type = "radio" name = "question3" value = "Pornstar Martini"> Pornstar Martini<br>
+            <br>
 
-      <p><b> Which cocktail's main component is ethanol? </b></p>
-      <input type = "radio" name = "question3" value = "Mojito"> Mojito<br>
-      <input type = "radio" name = "question3" value = "Gin and Tonic"> Gin and Tonic<br>
-      <input type = "radio" name = "question3" value = "Old Fashioned"> Old Fashioned<br>
-      <input type = "radio" name = "question3" value = "Pornstar Martini"> Pornstar Martini<br>
-        <br>
+          <p><b> Which cocktail's key component is vanillin? </b></p>
+          <input type = "radio" name = "question4" value = "Mojito"> Mojito<br>
+          <input type = "radio" name = "question4" value = "Gin and Tonic"> Gin and Tonic<br>
+          <input type = "radio" name = "question4" value = "Old Fashioned"> Old Fashioned<br>
+          <input type = "radio" name = "question4" value = "Pornstar Martini"> Pornstar Martini<br>
+          <br>
 
-      <p><b> Which cocktail's key component is vanillin? </b></p>
-      <input type = "radio" name = "question4" value = "Mojito"> Mojito<br>
-      <input type = "radio" name = "question4" value = "Gin and Tonic"> Gin and Tonic<br>
-      <input type = "radio" name = "question4" value = "Old Fashioned"> Old Fashioned<br>
-      <input type = "radio" name = "question4" value = "Pornstar Martini"> Pornstar Martini<br>
-      <br>
-      <input type="button" id="EnterButton" value="How'd I do?" onclick="check();">
-      <div id= "after_submit">
-        <p id= "clicked_correct"></p>
-        <p id="message"></p>
-        <img id="picture">
+          <input type="button" id="EnterButton" value="How'd I do?" onclick="check();">
+
       </div>
-    </form>
+        <div class= "col-12 col-md-6">
+          <div id= "after_submit">
+            <p id= "clicked_correct"></p>
+            <p id="message"></p>
+            <img id="picture">
+          </div>
+        </div>
+      </form>
+    </div>
+
   </body>
 
 </html>
