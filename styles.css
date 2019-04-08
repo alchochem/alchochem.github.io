@@ -123,3 +123,10 @@ padding-bottom: 50px;
 #after_submit {
   visibility: hidden;
 }
+
+#quizz {
+  padding 100px 20px 10px 20px;
+  width:400px;
+  border-radius" 200px;
+  float: left;
+}
